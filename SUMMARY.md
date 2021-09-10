@@ -4,7 +4,7 @@
 
 ## AI - Link <a id="ai"></a>
 
-* [AI RoadMap Link](ai/untitled.md)
+* [AI Link](ai/untitled.md)
 
 ## Backend-Django <a id="django"></a>
 

@@ -1,8 +1,6 @@
-# AI RoadMap Link
+# AI Link
 
 ### Road Map 
-
-* Road Map
 
 {% embed url="https://i.am.ai/roadmap/\#disclaimer" %}
 
