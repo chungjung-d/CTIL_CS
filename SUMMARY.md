@@ -2,9 +2,9 @@
 
 * [Chungjung Today I Learned](README.md)
 
-## AI
+## AI - Link <a id="ai"></a>
 
-* [Untitled](ai/untitled.md)
+* [AI RoadMap Link](ai/untitled.md)
 
 ## Backend-Django <a id="django"></a>
 
