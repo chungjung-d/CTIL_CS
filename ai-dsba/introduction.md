@@ -16,9 +16,10 @@ This section organizes papers recommended by DSBA Lab.
 
 ### Organize Thesis
 
-| Title | Link |
-| :--- | :--- |
-| Going deeper with convolutions |  |
+| Title | alias | Tag | Link |
+| :--- | :--- | :--- | :--- |
+| Going deeper with convolutions | GoogLeNet | `Deep Learning` `Vision` | [논문 정 링크 ](going-deeper-with-convolutions.md) |
+|  |  |  |  |
 
 
 
