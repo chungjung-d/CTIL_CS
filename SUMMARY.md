@@ -6,5 +6,10 @@
 
 * [AI Link](ai/untitled.md)
 
+## AI-DSBA
+
+* [Introduction](ai-dsba/introduction.md)
+* [Going deeper with convolutions](ai-dsba/going-deeper-with-convolutions.md)
+
 ## Backend-Django <a id="django"></a>
 
