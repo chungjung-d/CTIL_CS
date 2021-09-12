@@ -25,9 +25,19 @@
 
 ### \[4\] GoogLeNet Architecture
 
-![GoogLeNet Architecture \( right : input / left : output\(softmax function\)](../.gitbook/assets/image%20%282%29.png)
+![GoogLeNet Architecture \( left: input / right: output\(softmax function\)](../.gitbook/assets/image%20%282%29.png)
 
 ### \[5\] GoogLeNet Architecture Details 
 
 * Inception Modules
 
+![Inception module \(googLeNet : right\)](../.gitbook/assets/image%20%283%29.png)
+
+#### a-version
+
+* 가로로 병렬적으로 놓고 concat을 하는 방식을 사용 
+* 위의 방식을 사용할 경우 과도한 연산량의 발생 
+
+#### b-version 
+
+* 
