@@ -14,5 +14,13 @@ In window, download the docker file the link below
 
 {% embed url="https://www.docker.com/get-started" %}
 
+When the download complete, reboot the computer. If you get the error code "WSL 2 installation is incomplete", follow the link below 
 
+### [WSL 2 installation is incomplete](https://app.gitbook.com/@chungjung-d/s/chungjung-cs-study/~/drafts/-MjXzwnbctzFDJWz2sIz/wsl-2-installation-is-incomplete)
+
+
+
+
+
+ 
 

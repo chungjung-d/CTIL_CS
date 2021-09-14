@@ -18,3 +18,9 @@
 * [Docker explanation](docker/untitled.md)
 * [Docker Ubuntu Development Setting](docker/docker-ubuntu-setting.md)
 
+## Error Code
+
+---
+
+* [WSL 2 installation is incomplete](wsl-2-installation-is-incomplete.md)
+
