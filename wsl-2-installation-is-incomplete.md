@@ -18,6 +18,19 @@ Error occurred : Install Docker and reboot the PC
 
 #### \[2\] Use CMD 
 
+1. Execute the CMD with full administrator privilege.
+2. Enter the command below 
+
+```text
+dism.exe /online /enable-feature /featurename:Microsoft-Windows-Subsystem-Linux /all /norestart
+dism.exe /online /enable-feature /featurename:VirtualMachinePlatform /all /norestart
+wsl --set-default-version 2
+```
+
+**result**
+
+![](.gitbook/assets/image%20%286%29.png)
+
 
 
 
