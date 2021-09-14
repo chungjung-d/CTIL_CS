@@ -18,7 +18,7 @@ Error occurred : Install Docker and reboot the PC
 
 #### \[2\] Use CMD 
 
-1. Execute the CMD with full administrator privilege.
+1. Execute the CMD with full administrator privilege. 
 2. Enter the command below 
 
 ```text
