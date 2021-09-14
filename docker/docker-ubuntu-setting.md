@@ -10,11 +10,9 @@ Docker is the container based open source platform. We can use docker to setting
 
 ## \[2\] Docker Download 
 
-Download the docker 
+In window, download the docker file the link below 
 
-
-
-
+{% embed url="https://www.docker.com/get-started" %}
 
 
 
