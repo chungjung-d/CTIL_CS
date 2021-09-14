@@ -18,9 +18,11 @@ When the download complete, reboot the computer. If you get the error code "WSL 
 
 ### [WSL 2 installation is incomplete](https://app.gitbook.com/@chungjung-d/s/chungjung-cs-study/~/drafts/-MjXzwnbctzFDJWz2sIz/wsl-2-installation-is-incomplete)
 
+## \[3\] Execute Docker
 
+![Docker execute image ](../.gitbook/assets/image%20%287%29.png)
 
-
+You can see this display if docker complete install. In initial state, there are any docker image in docker application.
 
  
 
