@@ -38,3 +38,9 @@ docker pull ubuntu
 
  
 
+![](../.gitbook/assets/image%20%289%29.png)
+
+If ubuntu docker image download successfully, the docker image can be found on the docker application like the image below.
+
+![Docker ubuntu image ](../.gitbook/assets/image%20%288%29.png)
+
