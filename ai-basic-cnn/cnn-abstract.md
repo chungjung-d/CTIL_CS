@@ -1,6 +1,6 @@
 # CNN Abstract
 
-## CNN
+## CNN \(Convolutional Newral Network\)
 
 
 
