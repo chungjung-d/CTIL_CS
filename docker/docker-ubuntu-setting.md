@@ -44,3 +44,7 @@ If ubuntu docker image download successfully, the docker image can be found on t
 
 ![Docker ubuntu image ](../.gitbook/assets/image%20%288%29.png)
 
+## \[5\] Run docker 
+
+To run ubuntu docker image, press the run button which is located on the left side of the docker image. Then we can use the linux os in window. 
+
