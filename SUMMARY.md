@@ -7,6 +7,10 @@
 
 * [AI Link](ai/untitled.md)
 
+## AI Basic - CNN
+
+* [CNN Abstract](ai-basic-cnn/cnn-abstract.md)
+
 ## AI-DSBA
 
 * [Introduction](ai-dsba/introduction.md)
