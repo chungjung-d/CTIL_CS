@@ -30,7 +30,11 @@ Ubuntu docker image can be searched on docker hub which the link below.
 
 {% embed url="https://hub.docker.com/" %}
 
+Enter the command on CMD below
 
+```text
+docker pull ubuntu
+```
 
  
 
