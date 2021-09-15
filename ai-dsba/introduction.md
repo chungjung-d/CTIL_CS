@@ -18,7 +18,7 @@ This section organizes papers recommended by DSBA Lab.
 
 | Title | alias | Tag | Link |
 | :--- | :--- | :--- | :--- |
-| Going deeper with convolutions | GoogLeNet | `Deep Learning` `Vision` | [논문 정 링크 ](going-deeper-with-convolutions.md) |
+| Going deeper with convolutions | GoogLeNet | `Deep Learning` `Vision` | [논문 정리  링크 ](going-deeper-with-convolutions.md) |
 |  |  |  |  |
 
 
