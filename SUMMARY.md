@@ -29,3 +29,9 @@
 
 * [WSL 2 installation is incomplete](wsl-2-installation-is-incomplete.md)
 
+## Develop & Git
+
+---
+
+* [GitHub Issue Tracker](github-issue-tracker.md)
+
