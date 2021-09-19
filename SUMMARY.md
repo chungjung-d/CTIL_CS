@@ -23,15 +23,15 @@
 * [Docker explanation](docker/untitled.md)
 * [Docker Ubuntu Development Setting](docker/docker-ubuntu-setting.md)
 
-## Error Code
+## Error Code - Docker <a id="error-code"></a>
 
 ---
 
 * [WSL 2 installation is incomplete](wsl-2-installation-is-incomplete.md)
 
+## Error Code - Ubuntu
+
+* [ImportError: libGL.so.1: cannot open shared object file: No such file or directory](error-code-ubuntu/importerror-libgl.so.1-cannot-open-shared-object-file-no-such-file-or-directory.md)
+
 ## Develop & Git
-
----
-
-* [GitHub Issue Tracker](github-issue-tracker.md)
 
