@@ -18,6 +18,11 @@
 
 ## Backend-Django <a id="django"></a>
 
+## WSGI - uWSGI
+
+* [uWSGI explanation](wsgi-uwsgi/uwsgi-explanation.md)
+* [uWSGI ini file](wsgi-uwsgi/uwsgi-ini-file.md)
+
 ## Docker
 
 * [Docker explanation](docker/untitled.md)
