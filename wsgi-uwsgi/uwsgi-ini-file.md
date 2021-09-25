@@ -1,2 +1,2 @@
-# uWSGI ini file in Django
+# uWSGI ini file in Django\(Editing\)
 

@@ -25,8 +25,8 @@
 
 ## WSGI - uWSGI
 
-* [uWSGI explanation](wsgi-uwsgi/uwsgi-explanation.md)
-* [uWSGI ini file in Django](wsgi-uwsgi/uwsgi-ini-file.md)
+* [uWSGI explanation\(Editing\)](wsgi-uwsgi/uwsgi-explanation.md)
+* [uWSGI ini file in Django\(Editing\)](wsgi-uwsgi/uwsgi-ini-file.md)
 
 ## Docker
 
