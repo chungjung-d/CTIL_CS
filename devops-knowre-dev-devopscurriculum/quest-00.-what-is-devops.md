@@ -28,6 +28,12 @@ It affect, many teams like IT operations, software development, security and thi
 * **Agile Software Development**
   * Agile Software Development is the method of software development which short release term, team collaborate, user feedback reflect and etc. 
 
+## \[3\] Checklist 
+
+Q : What was the software development like before the concept of DevOps? What requirements did the concept of DevOps arise to meet?
+
+A : Before the DevOps, there are many conflict of developer and operator because of difference of direction their purpose
+
 
 
 
