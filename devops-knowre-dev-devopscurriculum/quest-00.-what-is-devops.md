@@ -34,7 +34,11 @@ Q : What was the software development like before the concept of DevOps? What re
 
 A : Before the DevOps, there are many conflict of developer and operator because of difference of direction their purpose
 
+## \[4\] Advanced
 
+**Definition of SRE\(Site Reliability Engineering\)**
+
+\*\*\*\*[**https://bcho.tistory.com/1325**](https://bcho.tistory.com/1325)\*\*\*\*
 
 
 
