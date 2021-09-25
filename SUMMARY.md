@@ -18,6 +18,10 @@
 
 ## Backend-Django <a id="django"></a>
 
+## DevOps - Curriculum <a id="devops-knowre-dev-devopscurriculum"></a>
+
+* [DevOps Curriculum](devops-knowre-dev-devopscurriculum/devops-curriculum.md)
+
 ## WSGI - uWSGI
 
 * [uWSGI explanation](wsgi-uwsgi/uwsgi-explanation.md)
