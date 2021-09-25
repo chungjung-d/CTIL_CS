@@ -18,13 +18,17 @@ It affect, many teams like IT operations, software development, security and thi
 
 ### **\[2-3\] DevOps Practices**
 
-* CI / CD \( Continuous Integration / Continuous Delivery \) 
+* **CI / CD \( Continuous Integration / Continuous Delivery \)** 
   * CI \( Continuous Integration \)
     * CI is the software development practice that developer merge their code changes to the central repository, after which automatically build and test. This practice purpose is help find the bug faster, improve the software quality, hence reduce time to deploy the new version of the service. 
   * CD \( Continuous Delivery \)
     * CD is the practice of the software development that code changes are reflected automatically in test environment or production environment. If the CD system build up completely, developers can get the standardized and automatically deploy environment.
-* VSC\(Version Control System\)
+* **VSC\(Version Control System\)**
   * Actually, many develop teams are using VSC like GIT. The version control means, track the code changes to review and restore code easily. VSC also provide the process the code merge, solve file conflict , rollback the previous version.
+* **Agile Software Development**
+  * Agile Software Development is the method of software development which short release term, team collaborate, user feedback reflect and etc. 
+
+
 
 
 
