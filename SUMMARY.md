@@ -21,6 +21,7 @@
 ## DevOps - Curriculum <a id="devops-knowre-dev-devopscurriculum"></a>
 
 * [DevOps Curriculum](devops-knowre-dev-devopscurriculum/devops-curriculum.md)
+* [Quest 00. What is DevOps](devops-knowre-dev-devopscurriculum/quest-00.-what-is-devops.md)
 
 ## WSGI - uWSGI
 
