@@ -38,7 +38,17 @@ A : Before the DevOps, there are many conflict of developer and operator because
 
 **Definition of SRE\(Site Reliability Engineering\)**
 
-\*\*\*\*[**https://bcho.tistory.com/1325**](https://bcho.tistory.com/1325)\*\*\*\*
+{% embed url="https://bcho.tistory.com/1325" %}
+
+## \[5\] Reference 
+
+{% embed url="https://bcho.tistory.com/1325" %}
+
+{% embed url="https://aws.amazon.com/ko/devops/what-is-devops/" %}
+
+{% embed url="https://azure.microsoft.com/ko-kr/overview/what-is-devops/" %}
+
+{% embed url="https://en.wikipedia.org/wiki/DevOps" %}
 
 
 
