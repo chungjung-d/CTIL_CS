@@ -21,6 +21,8 @@ It affect, many teams like IT operations, software development, security and thi
 * CI / CD \( Continuous Integration / Continuous Delivery \) 
   * CI \( Continuous Integration \)
     * CI is the software development practice that developer merge their code changes to the central repository, after which automatically build and test. This practice purpose is help find the bug faster, improve the software quality, hence reduce time to deploy the new version of the service. 
+  * CD \( Continuous Delivery \)
+    * CD is the practice of the software development that code changes are reflected automatically in test environment or production environment. If the CD system build up completely, developers can get the standardized and automatically deploy environment.
 
   ****
 
