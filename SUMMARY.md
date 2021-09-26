@@ -45,3 +45,7 @@
 
 ## Develop & Git
 
+---
+
+* [GitHub Issue tracker](github-issue-tracker.md)
+
