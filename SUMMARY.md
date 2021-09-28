@@ -22,6 +22,7 @@
 
 * [DevOps Curriculum](devops-knowre-dev-devopscurriculum/devops-curriculum.md)
 * [Quest 00. What is DevOps](devops-knowre-dev-devopscurriculum/quest-00.-what-is-devops.md)
+* [Quest 01. Linux](devops-knowre-dev-devopscurriculum/quest-01.-linux.md)
 
 ## WSGI - uWSGI
 
