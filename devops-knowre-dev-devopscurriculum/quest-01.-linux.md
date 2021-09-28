@@ -14,5 +14,5 @@
 pwd
 ```
 
-`pwd` is abbreviation of Print Working Directory. The command `pwd` all it does printing the working directory.
+`pwd` is abbreviation of Print Working Directory. The command `pwd` all it does printing the working directory. The working directory is the default location when you execute file in current state, it means shell has concept that default location that the file execute.
 
