@@ -3,7 +3,7 @@
 * [Chungjung Today I Learned](README.md)
 * [To Do List](to-do-list.md)
 
-## AI - Link <a id="ai"></a>
+## AI - Link <a href="ai" id="ai"></a>
 
 * [AI Link](ai/untitled.md)
 
@@ -14,11 +14,11 @@
 ## AI-DSBA
 
 * [Introduction](ai-dsba/introduction.md)
-* [Going deeper with convolutions\(GoogLeNet\)](ai-dsba/going-deeper-with-convolutions.md)
+* [Going deeper with convolutions(GoogLeNet)](ai-dsba/going-deeper-with-convolutions.md)
 
-## Backend-Django <a id="django"></a>
+## Backend-Django <a href="django" id="django"></a>
 
-## DevOps - Curriculum <a id="devops-knowre-dev-devopscurriculum"></a>
+## DevOps - Curriculum <a href="devops-knowre-dev-devopscurriculum" id="devops-knowre-dev-devopscurriculum"></a>
 
 * [DevOps Curriculum](devops-knowre-dev-devopscurriculum/devops-curriculum.md)
 * [Quest 00. What is DevOps](devops-knowre-dev-devopscurriculum/quest-00.-what-is-devops.md)
@@ -26,17 +26,17 @@
 
 ## WSGI - uWSGI
 
-* [uWSGI explanation\(Editing\)](wsgi-uwsgi/uwsgi-explanation.md)
-* [uWSGI ini file in Django\(Editing\)](wsgi-uwsgi/uwsgi-ini-file.md)
+* [uWSGI explanation(Editing)](wsgi-uwsgi/uwsgi-explanation.md)
+* [uWSGI ini file in Django(Editing)](wsgi-uwsgi/uwsgi-ini-file.md)
 
 ## Docker
 
-* [Docker explanation \(Editing\)](docker/untitled.md)
+* [Docker explanation (Editing)](docker/untitled.md)
 * [Docker Ubuntu Development Setting](docker/docker-ubuntu-setting.md)
 
-## Error Code - Docker <a id="error-code"></a>
+## Error Code - Docker <a href="error-code" id="error-code"></a>
 
----
+***
 
 * [WSL 2 installation is incomplete](wsl-2-installation-is-incomplete.md)
 
@@ -46,11 +46,6 @@
 
 ## Develop & Git
 
----
-
-* [Untitled](untitled.md)
-
 ## Project - SigorJobJong
 
-* [Collaborate reference\(KR\)](project-sigorjobjong/collaborate-reference-kr.md)
-
+* [Collaborate reference(KR)](project-sigorjobjong/collaborate-reference-kr.md)
